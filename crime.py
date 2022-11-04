@@ -1,6 +1,6 @@
 ########################## All Packages ##########################
 
-import pandas as pd   #we can write any name istead pd
+import pandas as pd   
 import matplotlib.pyplot as plt
 import numpy as np   #math calcukations
 import seaborn as sns  #advance visualizations
